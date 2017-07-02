@@ -1,0 +1,5 @@
+
+[user]
+  name = OpenShift System User
+[gc]
+  auto = 100
